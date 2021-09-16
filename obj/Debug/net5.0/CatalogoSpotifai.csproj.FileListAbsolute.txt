@@ -1,0 +1,16 @@
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.csproj.AssemblyReference.cache
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.GeneratedMSBuildEditorConfig.editorconfig
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.AssemblyInfoInputs.cache
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.AssemblyInfo.cs
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.csproj.CoreCompileInputs.cache
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\bin\Debug\net5.0\CatalogoSpotifai.exe
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\bin\Debug\net5.0\CatalogoSpotifai.deps.json
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\bin\Debug\net5.0\CatalogoSpotifai.runtimeconfig.json
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\bin\Debug\net5.0\CatalogoSpotifai.runtimeconfig.dev.json
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\bin\Debug\net5.0\CatalogoSpotifai.dll
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\bin\Debug\net5.0\ref\CatalogoSpotifai.dll
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\bin\Debug\net5.0\CatalogoSpotifai.pdb
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.dll
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\ref\CatalogoSpotifai.dll
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.pdb
+D:\joão\Programação\Estágio Avanade\CatalogoSpotifai\obj\Debug\net5.0\CatalogoSpotifai.genruntimeconfig.cache
